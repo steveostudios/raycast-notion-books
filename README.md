@@ -100,7 +100,7 @@ Create a new database in Notion with these exact properties:
 | Author(s)     | Multi-select | Book authors                                    |
 | Publishers    | Multi-select | Publishers                                      |
 | Format        | Select       | Hardcover, Paperback, Ebook, or Audio           |
-| Page Total    | Number       | Total pages (for non-audio books)               |
+| Page Total    | Number       | Total pages (for all books - we track "pages")  |
 | Pages Read    | Number       | Current page (for non-audio books)              |
 | Minutes Total | Number       | Total minutes (for audiobooks)                  |
 | Minutes Read  | Number       | Minutes listened (for audiobooks)               |

@@ -47,7 +47,7 @@
     {
       "name": "notion_database_id",
       "title": "Notion Database ID",
-      "description": "Notion database ID",
+      "description": "Notion Database ID",
       "type": "textfield",
       "required": true
     },
