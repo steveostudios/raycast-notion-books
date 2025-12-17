@@ -1,0 +1,17 @@
+export const NOTION = {
+  TITLE: "Title",
+  SUBTITLE: "Subtitle",
+  ISBN: "ISBN",
+  COVER: "Cover",
+  AUTHORS: "Author(s)",
+  PUBLISHERS: "Publishers",
+  PAGE_TOTAL: "Page Total",
+  PAGES_READ: "Pages Read",
+  MINUTES_TOTAL: "Minutes Total",
+  MINUTES_READ: "Minutes Read",
+  FORMAT: "Format",
+  FICTION: "Fiction",
+  START_DATE: "Date Start",
+  END_DATE: "Date Finish",
+  STARS: "Stars",
+};
